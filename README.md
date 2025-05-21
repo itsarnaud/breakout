@@ -1,8 +1,8 @@
-# PONG
+# BREAKOUT
 
 ## Overview
 
-This project is a simple implementation of the classic PONG game in vanilla JavaScript. It's a small project developed from scratch to improve my JavaScript skills and algorithmic thinking.
+This project is a simple implementation of the classic Breakout game in vanilla JavaScript. It's a small project developed from scratch to improve my JavaScript skills and algorithmic thinking.
 
 ## Project Goals
 
@@ -33,7 +33,5 @@ Simply open the `index.html` file in your browser to launch the game.
 
 This project is under development. Upcoming features include:
 
-- Score system
 - Paddle controls
 - Physics improvements
-- Enhanced user interface
